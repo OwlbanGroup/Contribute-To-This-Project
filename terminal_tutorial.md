@@ -88,6 +88,17 @@ This tutorial is also available in [other languages](/translations/README.md)
 | :----: | :----: | :----: | :----: | :----: |
 | [Portuguese (Brazilian)](/translations/terminal_tutorial/terminal_tutorial.por-br.md) | [Ukrainian](/translations/terminal_tutorial/terminal_tutorial.ukr.md) | | | |
 
+---
+
+### Setup! :)
+
+> [!Note]
+> If you're not good with the command line interface [here is the GUI tutorial using GitHub Desktop](/README.md)
+
+First let's get setup to do the work
+
+1. Login to your GitHub account. If you don't yet have an account then [join GitHub](
+
 > Translations for projects documentations are welcome. Read [`Translation Guide`](/translations/README.md) to contribute.
 
 ---
